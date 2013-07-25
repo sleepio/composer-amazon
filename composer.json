@@ -7,11 +7,11 @@
 		"classmap": [
 			"config.inc.php",
 			"sdk.class.php",
-			"authentication",
-			"extensions",
-			"lib",
-			"services",
-			"utilities"
+			"authentication/",
+			"extensions/",
+			"lib/",
+			"services/",
+			"utilities/"
 		]
 	}
 }
