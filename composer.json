@@ -1,0 +1,6 @@
+{
+    "name": "sleepio/amazon",
+    "description": "Sleepio amazon php sdk mirror v1",
+    "type": "library",
+    "homepage": "https://sleepio@bitbucket.org/sleepio/composer-amazon.git"
+}
