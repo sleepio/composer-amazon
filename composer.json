@@ -2,14 +2,14 @@
     "name": "sleepio/amazon",
     "description": "Sleepio amazon php sdk mirror v1",
     "type": "library",
-    "homepage": "https://sleepio@bitbucket.org/sleepio/composer-amazon.git"
+    "homepage": "https://sleepio@bitbucket.org/sleepio/composer-amazon.git",
     "autoload": {
         "classmap": [
-        	"authentication/",
-        	"extensions/",
-        	"lib/",
-        	"services/",
-        	"utilities/"
+            "authentication",
+            "extensions",
+            "lib",
+            "services",
+            "utilities"
         ]
     }
 }
